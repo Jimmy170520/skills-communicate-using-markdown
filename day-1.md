@@ -4,4 +4,18 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 ## Review
+```C
+int add(int a, b)
+{
+    return a + b;
+}
+```
 
+## Mermaid block diagram
+```mermaid
+graph TD
+    A --> B
+    A --> C
+    B --> D
+    C --> D
+```
